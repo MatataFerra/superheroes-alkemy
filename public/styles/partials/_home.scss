@@ -1,0 +1,25 @@
+.home-container {
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.home-add-character {
+  background: hsla(0, 0%, 43%, 0.548);
+  border: 5px #00000017 dashed;
+  height: 55%;
+  width: 60%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  img {
+    width: 2.5rem;
+    opacity: 0.3;
+    cursor: pointer;
+  }
+}

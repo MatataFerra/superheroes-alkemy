@@ -1,0 +1,16 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$fontColor: rgba(216, 27, 27, 0.767);
+
+
+
+
+// imports
+@import './partials/home';
+@import './partials/logo';
+@import './partials/heores';
